@@ -244,4 +244,8 @@ font-family: 'Open Sans', sans-serif;
   .form-grid {
     padding-bottom: 5rem;
   }
+
+  #mygrid {
+    margin-top: 5rem;
+  }
 }
