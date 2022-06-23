@@ -11,3 +11,4 @@
 
 Link aplicação: https://landingpage0.netlify.app/
 
+![landingpage](https://user-images.githubusercontent.com/84886753/175195613-a9b83ea4-a58c-441e-8d89-9e165759eea4.png)
